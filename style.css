@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+}
+
+.coco {
+    background-image: url(images/coco.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    width: 1200px;
+    height: 700px;
+
+
+}
+
+
+.logococo {
+    position: relative;
+    float: right;
+    width: 500px;
+    height: 1000px;
+}
+
+.logococo img {
+    width: 200px;
+}
+
+h1 {
+    color: white;
+}
+
+ul {
+    color: white;
+}
